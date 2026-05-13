@@ -1,0 +1,28 @@
+{
+  "name": "mailgrade-landing",
+  "version": "1.0.0",
+  "description": "MailGrade landing page - Cold emails that actually land",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build step required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjared123/mailgrade-landing.git"
+  },
+  "keywords": [
+    "mailgrade",
+    "landing-page",
+    "static-site"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjared123/mailgrade-landing/issues"
+  },
+  "homepage": "https://github.com/mjared123/mailgrade-landing#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
